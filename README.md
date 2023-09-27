@@ -24,6 +24,7 @@ https://splitcode.github.io/rsschool-cv/
 
 * 🧠 &nbsp;[Brain Games](https://github.com/SplitCode/Brain-games)
 * 📖 &nbsp;[Library](https://rolling-scopes-school.github.io/splitcode-JSFEPRESCHOOL2023Q2/library/)
+* ♪ &nbsp; [Audio-player]((https://rolling-scopes-school.github.io/splitcode-JSFEPRESCHOOL2023Q2/audio-player/)
 
 
 ### Connect with me:
