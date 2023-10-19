@@ -1,4 +1,4 @@
-### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+# 👋 Hi, I’m Natalia!
 -----------
 
 I'm currently studying to be a front-end web developer at Hexlet and RS School
