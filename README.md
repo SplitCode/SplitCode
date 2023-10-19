@@ -21,9 +21,11 @@ I am currently learning JavaScript, HTML, CSS, React and more to become a great 
 
 ## My experience
 
-* 🧠 &nbsp;[Brain Games](https://github.com/SplitCode/Brain-games)
 * 📖 &nbsp;[Library](https://rolling-scopes-school.github.io/splitcode-JSFEPRESCHOOL2023Q2/library/)
 * ♪ &nbsp; [Audio-player](https://rolling-scopes-school.github.io/splitcode-JSFEPRESCHOOL2023Q2/audio-player/)
+
+* While taking a course on frontend development in Hexlet, I've done training projects:
+* * 🧠 &nbsp;[Brain Games](https://github.com/SplitCode/Brain-games)
 
 
 ### Connect with me:
