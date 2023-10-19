@@ -5,6 +5,7 @@ I am a novice frontend developer from Russia, Moscow.
 I am currently learning JavaScript, HTML, CSS, React and more to become a great frontend developer
 
 * 💬 &nbsp;You can contact me via [Telegram](https://t.me/Nata_Bandurova)
+* 💬 &nbsp;You can find my resume here: https://splitcode.github.io/rsschool-cv/
 
 ## My skills
 
@@ -17,11 +18,8 @@ I am currently learning JavaScript, HTML, CSS, React and more to become a great 
 <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
 </p>
 
-### Resume:
-https://splitcode.github.io/rsschool-cv/
 
-
-### Portfolio:
+## My experience
 
 * 🧠 &nbsp;[Brain Games](https://github.com/SplitCode/Brain-games)
 * 📖 &nbsp;[Library](https://rolling-scopes-school.github.io/splitcode-JSFEPRESCHOOL2023Q2/library/)
