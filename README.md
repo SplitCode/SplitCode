@@ -8,12 +8,6 @@ I am currently learning JavaScript, HTML, CSS, React and more to become a great 
 
 ###### Languages, frameworks and libraries
 
-[![JS][JS-badge]][JS-url]
-[![React][React-badge]][React-url]
-[![HTML5][HTML-badge]][HTML-url]
-[![CSS3][CSS-badge]][CSS-url]
-[![Bootstrap][Bootstrap-badge]][Bootstrap-url]
-
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
