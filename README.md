@@ -1,12 +1,14 @@
 # 👋 Hi, I’m Natalia!
 -----------
 
-I'm currently studying to be a front-end web developer at Hexlet and RS School
+I am a novice frontend developer from Russia, Moscow.
 
-* 🌍 &nbsp;I'm based in Russia, Moscow
-* 💬 &nbsp;You can contact me via [Telegram](https://t.me/Nata_Bandurova)
+I am currently learning JavaScript, HTML, CSS, React and more to become a great frontend developer
 
-### Skills:
+## My skills
+
+###### Languages, frameworks and libraries
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -33,6 +35,7 @@ https://splitcode.github.io/rsschool-cv/
 <a href="https://www.linkedin.com/in/natalia-bandurova-33b13b265/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> 
 </a> <a href="https://www.x.com/Natabandurova" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
+* 💬 &nbsp;You can contact me via [Telegram](https://t.me/Nata_Bandurova)
 
 
 
