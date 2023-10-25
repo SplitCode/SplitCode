@@ -7,6 +7,9 @@ I am currently learning JavaScript, HTML, CSS, React and more to become a great 
 * 💬 &nbsp;You can contact me via [Telegram](https://t.me/Nata_Bandurova)
 * 👩‍💻 &nbsp;You can find my resume in english here: [Natalia Bandurova (EN)](https://splitcode.github.io/CV_Natalia_Bandurova/) or in russian here: [Natalia Bandurova (RU)]()
 
+<iframe src="https://giphy.com/embed/3owyp2SViuDIGh8YoM" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/illustration-work-freelancer-3owyp2SViuDIGh8YoM">via GIPHY</a></p>
+
+
 ## My skills
 
 <p align="left">
