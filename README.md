@@ -25,7 +25,7 @@ While taking a course on frontend development in RS School(stage 0), I've done s
 
 -  📖 &nbsp;[Library](https://rolling-scopes-school.github.io/splitcode-JSFEPRESCHOOL2023Q2/library/)
 -  🎲 &nbsp;[2048 Game]()
--  🖼 &nbsp;[API Image Gallery] ()
+-  🖼 &nbsp;[API Image Gallery]()
 -  🎼 &nbsp;[Audio-player](https://rolling-scopes-school.github.io/splitcode-JSFEPRESCHOOL2023Q2/audio-player/)
 
 
