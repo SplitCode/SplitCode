@@ -9,7 +9,7 @@ I am currently learning JavaScript, HTML, CSS, React and more to become a great 
 
 ## My skills
 
-### Web Development:
+#### Web Development:
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="36" height="36">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="36" height="36">&nbsp;
