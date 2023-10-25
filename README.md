@@ -26,9 +26,9 @@ Below are some of my projects that I did on my own during my studies at Hexlet a
 -  🧠 &nbsp;[Brain Games](https://github.com/SplitCode/Brain-games) - A set of five console games based on the principle of popular mobile applications for brain training.
 -  📑 &nbsp;[Gen Diff](https://github.com/SplitCode/Difference-Generator) - CLI utility that identifies the difference between two data structures.
 -  📖 &nbsp;[Library](https://rolling-scopes-school.github.io/splitcode-JSFEPRESCHOOL2023Q2/library/)
--  🎲 &nbsp;[2048 Game]()
--  🖼 &nbsp;[API Image Gallery]()
--  🎼 &nbsp;[Audio-player](https://rolling-scopes-school.github.io/splitcode-JSFEPRESCHOOL2023Q2/audio-player/)
+-  🎲 &nbsp;[2048 Game]() - 
+-  🖼 &nbsp;[API Image Gallery]() - 
+-  🎼 &nbsp;[Audio-player](https://rolling-scopes-school.github.io/splitcode-JSFEPRESCHOOL2023Q2/audio-player/) - 
 
 
 ### Connect with me:
