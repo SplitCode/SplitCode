@@ -24,8 +24,10 @@ I am currently learning JavaScript, HTML, CSS, React and more to become a great 
 While taking a course on frontend development in RS School(stage 0), I've done several training project:
 
 -  📖 &nbsp;[Library](https://rolling-scopes-school.github.io/splitcode-JSFEPRESCHOOL2023Q2/library/)
--  ♪ &nbsp; [Audio-player](https://rolling-scopes-school.github.io/splitcode-JSFEPRESCHOOL2023Q2/audio-player/)
--  🎲 &nbsp; [2048 Game]()
+-  🎲 &nbsp;[2048 Game]()
+-  🖼 &nbsp;[API Image Gallery] ()
+-  🎼 &nbsp;[Audio-player](https://rolling-scopes-school.github.io/splitcode-JSFEPRESCHOOL2023Q2/audio-player/)
+
 
 While taking a course on frontend development in Hexlet, I've done training projects:
 -  🧠 &nbsp;[Brain Games](https://github.com/SplitCode/Brain-games) - A set of five console games based on the principle of popular mobile applications for brain training.
