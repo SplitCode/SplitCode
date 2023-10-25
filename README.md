@@ -16,13 +16,13 @@ I am currently learning JavaScript, HTML, CSS, React and more to become a great 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="36" height="36">&nbsp;
 </p>
 
-### Frameworks and libraries:
+#### Frameworks and libraries:
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="36" height="36">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="36" height="36">&nbsp;
 </p>
 
-### Tools
+#### Tools:
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="36" height="36">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="36" height="36">&nbsp;
@@ -43,7 +43,7 @@ Below are some of my projects that I did on my own during my studies at [Hexlet]
 -  🎼 &nbsp;[Audio-player](https://rolling-scopes-school.github.io/splitcode-JSFEPRESCHOOL2023Q2/audio-player/) - 
 
 
-### Connect with me:
+## Connect with me:
 
 <p align="left"> 
 <a href="https://www.linkedin.com/in/natalia-bandurova-33b13b265/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> 
