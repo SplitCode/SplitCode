@@ -5,7 +5,7 @@ I am a novice frontend developer from Russia, Moscow.
 I am currently learning JavaScript, HTML, CSS, React and more to become a great frontend developer
 
 * 💬 &nbsp;You can contact me via [Telegram](https://t.me/Nata_Bandurova)
-* 💬 &nbsp;You can find my resume in english here: [Natalia Bandurova (EN)](https://splitcode.github.io/CV_Natalia_Bandurova/) or in russian here: [Natalia Bandurova (RU)]()
+* 👩‍💻 &nbsp;You can find my resume in english here: [Natalia Bandurova (EN)](https://splitcode.github.io/CV_Natalia_Bandurova/) or in russian here: [Natalia Bandurova (RU)]()
 
 ## My skills
 
