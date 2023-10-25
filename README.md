@@ -43,7 +43,7 @@ Below are some of my projects that I did on my own during my studies at [Hexlet]
 -  🎼 &nbsp;[Audio-player](https://rolling-scopes-school.github.io/splitcode-JSFEPRESCHOOL2023Q2/audio-player/) - 
 
 
-## Connect with me:
+## My contacts:
 
 <p align="left"> 
 <a href="https://www.linkedin.com/in/natalia-bandurova-33b13b265/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> 
