@@ -21,17 +21,14 @@ I am currently learning JavaScript, HTML, CSS, React and more to become a great 
 
 ## My experience
 
-While taking a course on frontend development in RS School(stage 0), I've done several training project:
+Below are some of my projects that I did on my own during my studies at Hexlet and RS School
 
+-  🧠 &nbsp;[Brain Games](https://github.com/SplitCode/Brain-games) - A set of five console games based on the principle of popular mobile applications for brain training.
+-  📑 &nbsp;[Gen Diff](https://github.com/SplitCode/Difference-Generator) - CLI utility that identifies the difference between two data structures.
 -  📖 &nbsp;[Library](https://rolling-scopes-school.github.io/splitcode-JSFEPRESCHOOL2023Q2/library/)
 -  🎲 &nbsp;[2048 Game]()
 -  🖼 &nbsp;[API Image Gallery]()
 -  🎼 &nbsp;[Audio-player](https://rolling-scopes-school.github.io/splitcode-JSFEPRESCHOOL2023Q2/audio-player/)
-
-
-While taking a course on frontend development in Hexlet, I've done training projects:
--  🧠 &nbsp;[Brain Games](https://github.com/SplitCode/Brain-games) - A set of five console games based on the principle of popular mobile applications for brain training.
--  📑 &nbsp;[Gen Diff](https://github.com/SplitCode/Difference-Generator) - CLI utility that identifies the difference between two data structures.
 
 
 ### Connect with me:
