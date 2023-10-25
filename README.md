@@ -25,10 +25,11 @@ While taking a course on frontend development in RS School(stage 0), I've done s
 
 -  📖 &nbsp;[Library](https://rolling-scopes-school.github.io/splitcode-JSFEPRESCHOOL2023Q2/library/)
 -  ♪ &nbsp; [Audio-player](https://rolling-scopes-school.github.io/splitcode-JSFEPRESCHOOL2023Q2/audio-player/)
+-  🎲 &nbsp; [2048 Game]()
 
 While taking a course on frontend development in Hexlet, I've done training projects:
--  🧠 &nbsp;[Brain Games](https://github.com/SplitCode/Brain-games)
--  🧠 &nbsp;[Gen Diff](https://github.com/SplitCode/Brain-games)
+-  🧠 &nbsp;[Brain Games](https://github.com/SplitCode/Brain-games) - A set of five console games based on the principle of popular mobile applications for brain training.
+-  📑 &nbsp;[Gen Diff](https://github.com/SplitCode/Difference-Generator) - CLI utility that identifies the difference between two data structures.
 
 
 ### Connect with me:
