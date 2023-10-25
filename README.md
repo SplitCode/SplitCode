@@ -21,8 +21,7 @@ I am currently learning JavaScript, HTML, CSS, React and more to become a great 
 
 ## My experience
 
-Below are some of my projects that I did on my own during my studies at Hexlet and RS School
-
+Below are some of my projects that I did on my own during my studies at [Hexlet](https://ru.hexlet.io/programs/frontend) and [RS School](https://rs.school/):
 -  🧠 &nbsp;[Brain Games](https://github.com/SplitCode/Brain-games) - A set of five console games based on the principle of popular mobile applications for brain training.
 -  📑 &nbsp;[Gen Diff](https://github.com/SplitCode/Difference-Generator) - CLI utility that identifies the difference between two data structures.
 -  📖 &nbsp;[Library](https://rolling-scopes-school.github.io/splitcode-JSFEPRESCHOOL2023Q2/library/)
