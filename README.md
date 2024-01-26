@@ -7,7 +7,7 @@ I am a novice frontend developer with over 10 years of sports event management e
 
 I am currently learning JavaScript, HTML, CSS, React and more to become a great frontend developer
 
-* 🚩  I'm based in Moscow, Russia
+* 🌍  I'm based in Moscow, Russia
 * 💬 &nbsp;You can contact me via [Telegram](https://t.me/Nata_Bandurova)
 * 👩‍💻 &nbsp;You can find my resume in English here: [Natalia Bandurova (EN)](https://splitcode.github.io/CV_Natalia_Bandurova/) and in the very near future it will be available in Russian here: [Natalia Bandurova (RU)]()
 
