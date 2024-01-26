@@ -1,4 +1,8 @@
 # 🙋‍♀️ Hi, I’m Natalia!
+===================================
+
+Frontend Developer
+----------------
 
 I am a novice frontend developer with over 10 years of sports event management experience 🤓
 
