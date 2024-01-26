@@ -1,6 +1,6 @@
 # 🙋‍♀️ Hi, I’m Natalia!
 
-I am a novice frontend developer from Russia, Moscow.
+I am a novice frontend developer with over 10 years of sports event management experience 🤓
 
 I am currently learning JavaScript, HTML, CSS, React and more to become a great frontend developer
 
