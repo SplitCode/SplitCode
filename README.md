@@ -25,6 +25,7 @@ Below are some of my projects that I did on my own during my studies at [Hexlet]
 
 **Websites**:
 -  📖 &nbsp;[Library](https://splitcode.github.io/Library/) - A website with pop-up windows and the possibility of registration.
+-  ☕ &nbsp;[Coffee-Shop](https://splitcode.github.io/coffee-house/index.html) - SPA application
 
 **CLI Utility**:
 -  📑 &nbsp;[Gen Diff](https://github.com/SplitCode/Difference-Generator) - CLI utility that identifies the difference between two data structures.
