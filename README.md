@@ -22,7 +22,7 @@ Below are some of my projects that I did on my own during my studies at [Hexlet]
 **Games**:
 -  🧠 &nbsp;[Brain Games](https://github.com/SplitCode/Brain-games) - A set of five console games based on the principle of popular mobile applications for brain training.
 -  🎲 &nbsp;[2048 Game](https://splitcode.github.io/2048_Game/) - Сlassic puzzle game. Join the tiles and get to 2048!
--  ❌ &nbsp;[Nonograms](https://splitcode.github.io/nonograms/)
+-  ❌ &nbsp;[Nonograms](https://splitcode.github.io/nonograms/) - Also known as a Japanese puzzle. The goal is to find an image on a rectangular pixel grid that adheres to certain row and column constraints.
 
 **Websites**:
 -  📖 &nbsp;[Library](https://splitcode.github.io/Library/) - A website with pop-up windows and the possibility of registration.
