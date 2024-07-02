@@ -17,8 +17,6 @@ I am currently learning JavaScript/TypeScript, HTML, CSS, React/Angular and more
 
 ## My experience
 
-Below are some of my projects that I did on my own during my studies at [Hexlet](https://ru.hexlet.io/programs/frontend) and [RS School](https://rs.school/):
-
 **Websites**:
 -  🪐 &nbsp;[Sloths's Galactic Store](https://sloths-galactic-store.netlify.app/) - An e-commerce platform created by a team of 3.
 Stack: TS, React, Redux ToolKit, Vite, CommerceTools (backend)
