@@ -5,7 +5,7 @@ Frontend Developer
 
 I am a novice frontend developer with over 10 years of sports event management experience 🤓
 
-I am currently learning JavaScript, HTML, CSS, React and more to become a great frontend developer
+I am currently learning JavaScript/TypeScript, HTML, CSS, React/Angular and more to become a great frontend developer
 
 * 🌍  I'm based in Moscow, Russia
 * 💬 &nbsp;You can contact me via [Telegram](https://t.me/Nata_Bandurova)
@@ -19,14 +19,16 @@ I am currently learning JavaScript, HTML, CSS, React and more to become a great 
 
 Below are some of my projects that I did on my own during my studies at [Hexlet](https://ru.hexlet.io/programs/frontend) and [RS School](https://rs.school/):
 
+**Websites**:
+-  🪐 &nbsp;[Sloths's Galactic Store](https://sloths-galactic-store.netlify.app/) - An e-commerce platform created by a team of 3.
+Stack: TS, React, Redux ToolKit, Vite, CommerceTools (backend)
+-  📖 &nbsp;[Library](https://splitcode.github.io/Library/) - A website with pop-up windows and the possibility of registration.
+-  ☕ &nbsp;[Coffee-Shop](https://splitcode.github.io/coffee-house/index.html) - SPA application
+
 **Games**:
 -  🧠 &nbsp;[Brain Games](https://github.com/SplitCode/Brain-games) - A set of five console games based on the principle of popular mobile applications for brain training.
 -  🎲 &nbsp;[2048 Game](https://splitcode.github.io/2048_Game/) - Сlassic puzzle game. Join the tiles and get to 2048!
 -  ❌ &nbsp;[Nonograms](https://splitcode.github.io/nonograms/) - Also known as a Japanese puzzle. The goal is to find an image on a rectangular pixel grid that adheres to certain row and column constraints.
-
-**Websites**:
--  📖 &nbsp;[Library](https://splitcode.github.io/Library/) - A website with pop-up windows and the possibility of registration.
--  ☕ &nbsp;[Coffee-Shop](https://splitcode.github.io/coffee-house/index.html) - SPA application
 
 **CLI Utility**:
 -  📑 &nbsp;[Gen Diff](https://github.com/SplitCode/Difference-Generator) - CLI utility that identifies the difference between two data structures.
