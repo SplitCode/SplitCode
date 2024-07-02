@@ -20,8 +20,8 @@ I am currently learning JavaScript/TypeScript, HTML, CSS, React/Angular and more
 **Websites**:
 -  🪐 &nbsp;[Sloths's Galactic Store](https://sloths-galactic-store.netlify.app/) - An e-commerce platform created by a team of 3.
 Stack: TS, React, Redux ToolKit, Vite, CommerceTools (backend)
--  📖 &nbsp;[Library](https://splitcode.github.io/Library/) - A website with pop-up windows and the possibility of registration.
--  ☕ &nbsp;[Coffee-Shop](https://splitcode.github.io/coffee-house/index.html) - SPA application
+-  📖 &nbsp;[Library](https://splitcode.github.io/Library/) - A website with pop-up windows and the possibility of registration. Stack: Vanilla JS, HTML, CSS
+-  ☕ &nbsp;[Coffee-Shop](https://splitcode.github.io/coffee-house/index.html) -  A website consisting of two page with responsive design. Stack: Vanilla JS, HTML, CSS
 
 **Games**:
 -  🧠 &nbsp;[Brain Games](https://github.com/SplitCode/Brain-games) - A set of five console games based on the principle of popular mobile applications for brain training.
