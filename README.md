@@ -13,7 +13,7 @@ I am currently learning JavaScript/TypeScript, HTML, CSS, React/Angular and more
 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,react,redux,webpack,vite,git,github,jest,figma,ps,linux,vscode&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,angular,react,redux,webpack,vite,git,github,jest,figma,ps,linux,vscode&perline=6)](https://skillicons.dev)
 
 ## My experience
 
