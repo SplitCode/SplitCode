@@ -18,7 +18,7 @@ I am currently learning JavaScript/TypeScript, HTML, CSS, React/Angular and more
 ## My experience
 
 **Websites**:
--  🪐 &nbsp;[Sloths's Galactic Store](https://sloths-galactic-store.netlify.app/) - An e-commerce platform created by a team of 3.
+-  🪐 &nbsp;[Sloths's Galactic Store](https://sloth-galactic-store.netlify.app/) - An e-commerce platform created by a team of 3.
 Stack: TS, React, Redux ToolKit, Vite, CommerceTools (backend)
 -  📖 &nbsp;[Library](https://splitcode.github.io/Library/) - A website with pop-up windows and the possibility of registration. Stack: Vanilla JS, HTML, CSS
 -  ☕ &nbsp;[Coffee-Shop](https://splitcode.github.io/coffee-shop/) -  A website consisting of two page with responsive design. Stack: Vanilla JS, HTML, CSS
