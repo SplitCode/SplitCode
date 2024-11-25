@@ -33,7 +33,10 @@ With over 10 years of experience in **sports event management**, I have honed my
 
 **Featured Projects**:
 
-- 🪐 **[Sloths's Galactic Store](https://sloth-galactic-store.netlify.app/)**  - An e-commerce platform for buying space-themed merchandise created by a team of 3.  
+- 💬 **[Hexlet Chat](https://frontend-project-12-c3ik.onrender.com/)** - A simplified analog of Slack chat that allows users to communicate in real time through channels.  
+**Stack:** JavaScript, React, Redux Toolkit, Bootstrap, WebSocket, Leo Profanity
+
+- 🪐 **[Sloths's Galactic Store](https://sloth-galactic-store.netlify.app/)** - An e-commerce platform for buying space-themed merchandise created by a team of 3.  
 **Stack:** TypeScript, React, Redux Toolkit, Vite, CommerceTools (backend)
 
 - 🚆 **[Train-A](https://angular-train.netlify.app/)** - A platform for managing train trips efficiently created by a team of 4.  
