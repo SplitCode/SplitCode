@@ -7,21 +7,48 @@ I am a novice frontend developer with over 10 years of sports event management e
 
 I am currently learning JavaScript/TypeScript, HTML, CSS, React/Angular and more to become a great frontend developer
 
-* 🌍  I'm based in Moscow, Russia
-* 💬 &nbsp;You can contact me via [Telegram](https://t.me/Nata_Bandurova)
-* 👩‍💻 &nbsp;You can find my CV in English here: [CV(EN)](https://splitcode.github.io/CV_Natalia_Bandurova/) and in the very near future it will be available in Russian here: [CV(RU)]()
+## My Background
+
+With over 10 years of experience in **sports event management**, I have a proven track record of leadership, organization, and achieving results under tight deadlines.  
+Transitioning into frontend development, I bring strong problem-solving skills, team collaboration, and a passion for learning new technologies.
+
+## 📫 Contact Me
+
+<div align="left" id="contact_badges">
+  <a href="https://t.me/Nata_Bandurova" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+ <a href="https://www.linkedin.com/in/natalia-bandurova-33b13b265/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</div>
 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,angular,react,redux,webpack,vite,git,github,jest,figma,ps,linux,vscode&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,less,tailwind,bootstrap,angular,react,redux,webpack,vite,firebase,git,github,jest,figma,ps,linux,npm,vscode&perline=8)](https://skillicons.dev)
+
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Stylelint](https://img.shields.io/badge/Stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
+![Husky](https://img.shields.io/badge/Husky-F05032?style=for-the-badge&logo=furrynetwork&logoColor=white)
+![NGRX](https://img.shields.io/badge/ngrx-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white)
+![NX](https://img.shields.io/badge/NX-143055?style=for-the-badge&logo=nx&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?style=for-the-badge&logo=PrimeNG&logoColor=white)
+![Trello](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ## My experience
 
-**Websites**:
--  🪐 &nbsp;[Sloths's Galactic Store](https://sloth-galactic-store.netlify.app/) - an e-commerce platform created by a team of 3.
-Stack: TS, React, Redux ToolKit, Vite, CommerceTools (backend)
--  🚆 &nbsp;[Train-A](https://angular-train.netlify.app/) - platform for managing train tips created by a team of 4.
-Stack: TS, Angular18, Vite
+### 🌟 Featured Projects
+
+- 🪐 **[Sloths's Galactic Store](https://sloth-galactic-store.netlify.app/):**
+An e-commerce platform for buying space-themed merchandise created by a team of 3.
+
+**Stack:** TypeScript, React, Redux Toolkit, Vite, CommerceTools (backend)
+
+- 🚆 **[Train-A](https://angular-train.netlify.app/):**
+A platform for managing train trips efficiently created by a team of 4.
+
+**Stack:** TypeScript, Angular 18, Vite
+
 -  📖 &nbsp;[Library](https://splitcode.github.io/Library/) - A website with pop-up windows and the possibility of registration. Stack: Vanilla JS, HTML, CSS
 -  ☕ &nbsp;[Coffee-Shop](https://splitcode.github.io/coffee-shop/) -  A website consisting of two page with responsive design. Stack: Vanilla JS, HTML, CSS
 
@@ -38,14 +65,10 @@ Stack: TS, Angular18, Vite
 -  🎼 &nbsp;[Audio-player](https://splitcode.github.io/Audio_player/) - A music player that allows you to play music tracks in turn or flip through them by clicking on buttons.
 -  😜 &nbsp;[CSS slider](https://splitcode.github.io/cssMemeSlider/cssMemeSlider/index.html) - Slider created using only html, scc and relative units of measurement.
 
-## My contacts:
-
-<p align="left">
-<a href="https://www.github.com/SplitCode" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
-<a href="https://www.x.com/Natabandurova" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
-<a href="https://www.linkedin.com/in/natalia-bandurova-33b13b265/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
-
 </p>
 
+## 📊 GitHub Stats
+![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SplitCode&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SplitCode&layout=compact&theme=radical)
 
 
