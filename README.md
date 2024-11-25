@@ -31,34 +31,26 @@ With over 10 years of experience in **sports event management**, I have honed my
 
 ## 🌟 My Experience
 
-**Web Applications**:
+**Featured Projects**:
 
-- 🪐 <strong><a href="https://sloth-galactic-store.netlify.app/">Sloths's Galactic Store</a>:</strong>  
-An e-commerce platform for buying space-themed merchandise created by a team of 3.  
-  <span style="margin-left: 1em;"><b>Stack:</b></span> TypeScript, React, Redux Toolkit, Vite, CommerceTools (backend)
+- 🪐 **[Sloths's Galactic Store](https://sloth-galactic-store.netlify.app/)**  - An e-commerce platform for buying space-themed merchandise created by a team of 3.  
+**Stack:** TypeScript, React, Redux Toolkit, Vite, CommerceTools (backend)
 
-
-- 🚆 **[Train-A](https://angular-train.netlify.app/):**  
-A platform for managing train trips efficiently created by a team of 4.  
+- 🚆 **[Train-A](https://angular-train.netlify.app/)** - A platform for managing train trips efficiently created by a team of 4.  
 **Stack:** TypeScript, Angular 18, Vite, PrimeNg + Tailwind
 
--  📖 &nbsp;[Library](https://splitcode.github.io/Library/) - A website with pop-up windows and user registration functionality.  
+**Games & CLI Tools**:
+- 🧠 **[Brain Games](https://github.com/SplitCode/Brain-games)** - A set of five console games inspired by popular brain training apps.
+- 📑 **[Gen Diff](https://github.com/SplitCode/Difference-Generator)** - A CLI utility to identify differences between two data structures.  
+
+**Other Projects**:
+- 📖 **[Library](https://splitcode.github.io/Library/)** - A website with pop-up windows and user registration functionality.  
 **Stack:** Vanilla JS, HTML, CSS
 
--  ☕ &nbsp;[Coffee-Shop](https://splitcode.github.io/coffee-shop/) - A responsive website with a two-page layout for a fictional coffee shop.  
+- ☕ **[Coffee-Shop](https://splitcode.github.io/coffee-shop/)** - A responsive website with a two-page layout for a fictional coffee shop.  
 **Stack:** Vanilla JS, HTML, CSS
 
-**Games**:
--  🧠 &nbsp;[Brain Games](https://github.com/SplitCode/Brain-games) - A set of five console games inspired by popular brain training apps.
--  🎲 &nbsp;[2048 Game](https://splitcode.github.io/2048_Game/) - Сlassic puzzle game. Join the tiles and get to 2048!
--  ❌ &nbsp;[Nonograms](https://splitcode.github.io/nonograms/) - A Japanese puzzle game. Find hidden images using logic.
-
-**CLI Utility**:
-📑 **[Gen Diff](https://github.com/SplitCode/Difference-Generator):** - A CLI utility to identify differences between two data structures.  
-
-**Others**:
--  🖼 &nbsp;[API Image Gallery](https://splitcode.github.io/API_Image_Gallery/) - An application that displays photos received from the API. When you enter a search query, the photos that are displayed in the application change according to the query.
--  🎼 &nbsp;[Audio-player](https://splitcode.github.io/Audio_player/) - A music player that allows you to play music tracks in turn or flip through them by clicking on buttons.
+Check out more of my projects on my [GitHub profile](https://github.com/SplitCode).
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SplitCode&show_icons=true&theme=radical)
