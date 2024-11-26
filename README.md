@@ -22,12 +22,14 @@ With over 10 years of experience in **sports event management**, I have honed my
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Stylelint](https://img.shields.io/badge/Stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
-![Husky](https://img.shields.io/badge/Husky-F05032?style=for-the-badge&logo=furrynetwork&logoColor=white)
+![Husky](https://img.shields.io/badge/🐶%20Husky-EAEAEA?style=for-the-badge)
 ![NGRX](https://img.shields.io/badge/ngrx-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white)
 ![NX](https://img.shields.io/badge/NX-143055?style=for-the-badge&logo=nx&logoColor=white)
 ![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?style=for-the-badge&logo=PrimeNG&logoColor=white)
+![Taiga UI](https://img.shields.io/badge/Taiga%20UI-EAEAEA?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2OCIgaGVpZ2h0PSI2MCIgdmlld0JveD0iMCAwIDM0IDMwIiBmaWxsPSJub25lIj4KICAgIDxwYXRoCiAgICAgICAgZmlsbC1ydWxlPSJldmVub2RkIgogICAgICAgIGNsaXAtcnVsZT0iZXZlbm9kZCIKICAgICAgICBkPSJNMzQgMjkuNDY2N0wxNyAwTDAgMjkuNDY2N0gxMC4zMjA4TDE0LjYyMTggMjIuODE5N0gxMS40ODY3TDE3LjAwMDIgMTQuMDlMMjIuNTEzNyAyMi44MTk3SDE5LjM3ODVMMjMuNjc5NSAyOS40NjY3SDM0WiIKICAgICAgICBmaWxsPSIjRkY3MDQzIgogICAgLz4KPC9zdmc+Cg==&logoColor=000000)
 ![Trello](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 
 ## 🌟 My Experience
 
