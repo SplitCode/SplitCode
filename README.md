@@ -35,14 +35,18 @@ With over 10 years of experience in **sports event management**, I have honed my
 
 **Featured Projects**:
 
-- 💬 **[Hexlet Chat](https://frontend-project-12-c3ik.onrender.com/)** - A simplified analog of Slack chat that allows users to communicate in real time through channels.  
-**Stack:** JavaScript, React, Redux Toolkit, Bootstrap, WebSocket, Leo Profanity
+- 🥕 **[Carrot's Hub](https://morkovka.web.app/)** - A comprehensive service designed to help users monitor their diet and hydration habits, track the nutritional value of foods, and adopt healthy eating habits through educational recipes and practical tools.  
+**Stack:** TypeScript, Angular 18, Firebase (Authentication, Realtime Database, Analytics, Hosting), Taiga UI + LESS, Eslint, Stylelint, Prettier, Nx Monorepo
 
-- 🪐 **[Sloths's Galactic Store](https://sloth-galactic-store.netlify.app/)** - An e-commerce platform for buying space-themed merchandise created by a team of 3.  
+- 💬 **[Hexlet Chat](https://frontend-project-12-c3ik.onrender.com/)** - A simplified analog of Slack chat that allows users to communicate in real time through channels.  
+**Stack:** JavaScript, React, Redux Toolkit, Bootstrap, WebSocket, React-i18next, Leo Profanity
+
+- 🚆 **[Train-A](https://angular-train.netlify.app/)** - A platform for managing train trips efficiently, created by a team of 4.  
+**Stack:** TypeScript, Angular 18, Vite, PrimeNg + Tailwind
+  
+- 🪐 **[Sloths's Galactic Store](https://sloth-galactic-store.netlify.app/)** - An e-commerce platform for buying space-themed merchandise, created by a team of 3.  
 **Stack:** TypeScript, React, Redux Toolkit, Vite, CommerceTools (backend)
 
-- 🚆 **[Train-A](https://angular-train.netlify.app/)** - A platform for managing train trips efficiently created by a team of 4.  
-**Stack:** TypeScript, Angular 18, Vite, PrimeNg + Tailwind
 
 **Games & CLI Tools**:
 - 🧠 **[Brain Games](https://github.com/SplitCode/Brain-games)** - A set of five console games inspired by popular brain training apps.
