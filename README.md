@@ -10,7 +10,7 @@ With over 10 years of experience in **sports event management**, I have honed my
 
 <div id="contact_badges">
   <a href="https://t.me/Nata_Bandurova" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
- <a href="https://www.linkedin.com/in/natalia-bandurova-33b13b265/" target="_blank">
+ <a href="https://www.linkedin.com/in/natalia-bandurova/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </div>
