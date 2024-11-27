@@ -36,7 +36,7 @@ With over 10 years of experience in **sports event management**, I have honed my
 **Featured Projects**:
 
 - 🥕 **[Carrot's Hub](https://morkovka.web.app/)** - A comprehensive service designed to help users monitor their diet and hydration habits, track the nutritional value of foods, and adopt healthy eating habits through educational recipes and practical tools.  
-**Stack:** TypeScript, Angular 18, Firebase (Authentication, Realtime Database, Analytics, Hosting), Taiga UI + LESS, Eslint, Stylelint, Prettier, Nx Monorepo
+**Stack:** TypeScript, Angular 18, Firebase (Authentication, Realtime Database, Analytics, Hosting), Taiga UI + LESS, Eslint, Stylelint, Prettier, Nx Monorepo, CI/CD
 
 - 💬 **[Hexlet Chat](https://frontend-project-12-c3ik.onrender.com/)** - A simplified analog of Slack chat that allows users to communicate in real time through channels.  
 **Stack:** JavaScript, React, Redux Toolkit, Bootstrap, WebSocket, React-i18next, Leo Profanity
