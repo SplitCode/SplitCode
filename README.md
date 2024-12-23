@@ -59,8 +59,6 @@ With over 10 years of experience in **sports event management**, I have honed my
 - 📑 **[Gen Diff](https://github.com/SplitCode/Difference-Generator)** - A CLI utility to identify differences between two data structures.  
 
 
-Check out more of my projects on my [GitHub profile](https://github.com/SplitCode).
-
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SplitCode&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SplitCode&layout=compact&theme=radical)
