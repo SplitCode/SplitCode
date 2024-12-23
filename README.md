@@ -51,7 +51,7 @@ With over 10 years of experience in **sports event management**, I have honed my
 - 📖 **[Library](https://splitcode.github.io/Library/)** - A website with pop-up windows and user registration functionality.  
 **Stack:** Vanilla JS, HTML, CSS
 
-- ☕ **[Coffee-Shop](https://splitcode.github.io/coffee-shop/)** - A responsive website with a two-page layout for a fictional coffee shop.  
+- ☕ **[Coffee-Shop](https://splitcode.github.io/Coffee-shop/)** - A responsive website with a two-page layout for a fictional coffee shop.  
 **Stack:** Vanilla JS, HTML, CSS
 
 **Games & CLI Tools**:
