@@ -47,16 +47,17 @@ With over 10 years of experience in **sports event management**, I have honed my
 - 💬 **[Hexlet Chat](https://frontend-project-12-c3ik.onrender.com/)** - A simplified analog of Slack chat that allows users to communicate in real time through channels.  
 **Stack:** JavaScript, React, Redux Toolkit, Bootstrap, WebSocket, React-i18next, Leo Profanity
 
-**Games & CLI Tools**:
-- 🧠 **[Brain Games](https://github.com/SplitCode/Brain-games)** - A set of five console games inspired by popular brain training apps.
-- 📑 **[Gen Diff](https://github.com/SplitCode/Difference-Generator)** - A CLI utility to identify differences between two data structures.  
-
 **Websites**:
 - 📖 **[Library](https://splitcode.github.io/Library/)** - A website with pop-up windows and user registration functionality.  
 **Stack:** Vanilla JS, HTML, CSS
 
 - ☕ **[Coffee-Shop](https://splitcode.github.io/coffee-shop/)** - A responsive website with a two-page layout for a fictional coffee shop.  
 **Stack:** Vanilla JS, HTML, CSS
+
+**Games & CLI Tools**:
+- 🧠 **[Brain Games](https://github.com/SplitCode/Brain-games)** - A set of five console games inspired by popular brain training apps.
+- 📑 **[Gen Diff](https://github.com/SplitCode/Difference-Generator)** - A CLI utility to identify differences between two data structures.  
+
 
 Check out more of my projects on my [GitHub profile](https://github.com/SplitCode).
 
