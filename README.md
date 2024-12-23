@@ -54,8 +54,10 @@ With over 10 years of experience in **sports event management**, I have honed my
 - ☕ **[Coffee-Shop](https://splitcode.github.io/Coffee-shop/)** - A responsive website with a two-page layout for a fictional coffee shop.  
 **Stack:** Vanilla JS, HTML, CSS
 
-**Games & CLI Tools**:
-- 🧠 **[Brain Games](https://github.com/SplitCode/Brain-games)** - A set of five console games inspired by popular brain training apps.
+**Games**:
+- 🧠 **[Nonograms](https://splitcode.github.io/nonograms/)** - a puzzle game to reveal a hidden picture by looking at the number clues.
+**Stack:** Vanilla JS, HTML, CSS
+  
 - 📑 **[Gen Diff](https://github.com/SplitCode/Difference-Generator)** - A CLI utility to identify differences between two data structures.  
 
 
