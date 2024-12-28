@@ -38,6 +38,9 @@ With over 10 years of experience in **sports event management**, I have honed my
 - 🥕 **[Carrot's Hub](https://morkovka.web.app/)** - A comprehensive service designed to help users monitor their diet and hydration habits, track the nutritional value of foods, and adopt healthy eating habits through educational recipes and practical tools.  
 **Stack:** TypeScript, Angular 18, Firebase (Authentication, Realtime Database, Analytics, Hosting), Taiga UI + LESS, Eslint, Stylelint, Prettier, Nx Monorepo, CI/CD
 
+- **[Code Editor](https://on-editor.netlify.app/)** - A simplified code editor interface, similar to leetcode.com. Users can write code in one of two supported programming languages (JavaScript and Python), submit it to a "server" (server simulation) for execution, and receive the results.
+- **Stack:** TypeScript, Angular 18, json-server, Taiga UI, Eslint, Stylelint, Prettier, Nx, Netlify
+
 - 🚆 **[Train-A](https://angular-train.netlify.app/)** - A platform for managing train trips efficiently, created by a team of 4.  
 **Stack:** TypeScript, Angular 18, Vite, PrimeNg + Tailwind
   
@@ -55,7 +58,7 @@ With over 10 years of experience in **sports event management**, I have honed my
 **Stack:** Vanilla JS, HTML, CSS
 
 **Games and CLI utilities**:
-- ❎ **[Nonograms](https://splitcode.github.io/nonograms/)** - a puzzle game to reveal a hidden picture by looking at the number clues.
+- ❎ **[Nonograms](https://splitcode.github.io/nonograms/)** - A puzzle game to reveal a hidden picture by looking at the number clues.
 **Stack:** Vanilla JS, HTML, CSS
   
 - 📑 **[Gen Diff](https://github.com/SplitCode/Difference-Generator)** - A CLI utility to identify differences between two data structures.  
