@@ -36,10 +36,12 @@ With over 10 years of experience in **sports event management**, I have honed my
 **Featured Projects**:
 
 - 🥕 **[Carrot's Hub](https://morkovka.web.app/)** - A comprehensive service designed to help users monitor their diet and hydration habits, track the nutritional value of foods, and adopt healthy eating habits through educational recipes and practical tools.  
-**Stack:** TypeScript, Angular 18, Firebase (Authentication, Realtime Database, Analytics, Hosting), Taiga UI + LESS, Eslint, Stylelint, Prettier, Nx Monorepo, CI/CD
-
+**Stack:** TypeScript, Angular 18, Firebase (Authentication, Realtime Database, Analytics, Hosting), Taiga UI + LESS, Eslint, Stylelint, Prettier, Nx Monorepo, CI/CD  
+**Code:** [GitHub Repository]()
+  
 - ❮ ❯ **[Code Editor](https://on-editor.netlify.app/)** - A simplified code editor interface, similar to leetcode.com. Users can write code in one of two supported programming languages (JavaScript and Python), submit it to a "server" (server simulation) for execution, and receive the results.
-**Stack:** TypeScript, Angular 18, json-server, Taiga UI, Eslint, Stylelint, Prettier, Nx, Netlify
+**Stack:** TypeScript, Angular 18, json-server, Taiga UI, Eslint, Stylelint, Prettier, Nx, Netlify  
+**Code:** [GitHub Repository](https://github.com/SplitCode/codeEditor)
 
 - 🚆 **[Train-A](https://angular-train.netlify.app/)** - A platform for managing train trips efficiently, created by a team of 4.  
 **Stack:** TypeScript, Angular 18, Vite, PrimeNg + Tailwind
