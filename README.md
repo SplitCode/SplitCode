@@ -16,7 +16,7 @@ I enjoy writing clean, maintainable code and documenting systems as much as buil
 
 **Tooling:** Jest · ESLint · Prettier · Git · GitHub Actions
 
-## 📫 Contact
+## Contact
 
 <div id="contact_badges">
   <a href="https://t.me/Nata_Bandurova" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
