@@ -13,8 +13,6 @@ I write clean, well-structured code and genuinely enjoy documenting it. Currentl
 </a>
 </div>
 
-📫 [LinkedIn](https://www.linkedin.com/in/natalia-bandurova/) · [Telegram](https://t.me/nata_bandurova)
-
 ## 🛠 My Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,less,tailwind,bootstrap,angular,react,redux,webpack,vite,firebase,git,github,githubactions,gitlab,jest,figma,ps,linux,npm,vscode&perline=8)](https://skillicons.dev)
