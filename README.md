@@ -6,6 +6,8 @@ Currently building Angular applications for medical genomics and computational b
 
 I enjoy writing clean, maintainable code and documenting systems as much as building them. Recently exploring Documentation Engineering, Technical Writing, and AI-assisted developer workflows.
 
+🌱 Currently exploring: Technical Writing · Documentation Engineering · AI Agents & Automation
+
 📍 Moscow · Open to remote opportunities
 
 🛠 Tech Stack
