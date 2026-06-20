@@ -1,8 +1,10 @@
 # Hi, I’m Natalia!
 
-Angular frontend developer with a background in sports event management — which means I know how to ship things under deadline and work in a team.
+Frontend Engineer specializing in data visualization and scientific applications.
 
-I write clean, well-structured code and genuinely enjoy documenting it. Currently exploring technical writing and developer experience as a natural extension of my frontend work.
+Currently building Angular applications for medical genomics and computational biology, creating interactive dashboards and tools for exploring complex datasets.
+
+I enjoy writing clean, maintainable code and documenting systems as much as building them. Recently, I've been exploring Technical Writing, Documentation Engineering, and AI-assisted developer workflows.
 
 ## 🛠 My Tech Stack
 
