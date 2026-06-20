@@ -4,7 +4,7 @@ Frontend Engineer specializing in data visualization and scientific applications
 
 Currently building Angular applications for medical genomics and computational biology, creating interactive dashboards and tools for exploring complex datasets.
 
-I enjoy writing clean, maintainable code and documenting systems as much as building them. Particularly interested in Technical Writing, Documentation Engineering, and AI-assisted developer workflows.
+I enjoy writing clean, maintainable code and documenting systems as much as building them. Interested in Technical Writing, Documentation Engineering, and AI-powered developer tools.
 
 📍 Moscow · Open to remote opportunities
 
