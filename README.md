@@ -8,14 +8,7 @@ I enjoy writing clean, maintainable code and documenting systems as much as buil
 
 📍 Moscow · Open to remote opportunities
 
-## 📫 Contact
-
-<div id="contact_badges">
-  <a href="https://t.me/Nata_Bandurova" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://www.linkedin.com/in/natalia-bandurova/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</div>
-
-## Tech Stack
+🛠 Tech Stack
 
 **Core:** Angular · TypeScript · RxJS · NgRx · Nx · PrimeNG
 
@@ -23,5 +16,10 @@ I enjoy writing clean, maintainable code and documenting systems as much as buil
 
 **Tooling:** Jest · ESLint · Prettier · Git · GitHub Actions
 
+## 📫 Contact
 
+<div id="contact_badges">
+  <a href="https://t.me/Nata_Bandurova" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://www.linkedin.com/in/natalia-bandurova/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</div>
 
