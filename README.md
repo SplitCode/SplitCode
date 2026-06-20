@@ -4,15 +4,6 @@ Angular frontend developer with a background in sports event management — whic
 
 I write clean, well-structured code and genuinely enjoy documenting it. Currently exploring technical writing and developer experience as a natural extension of my frontend work.
 
-## 📫 Contact Me
-
-<div id="contact_badges">
-  <a href="https://t.me/Nata_Bandurova" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
- <a href="https://www.linkedin.com/in/natalia-bandurova/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-</div>
-
 ## 🛠 My Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,less,tailwind,bootstrap,angular,react,redux,webpack,vite,firebase,git,github,githubactions,gitlab,jest,figma,ps,linux,npm,vscode&perline=8)](https://skillicons.dev)
@@ -28,9 +19,11 @@ I write clean, well-structured code and genuinely enjoy documenting it. Currentl
 ![Trello](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+## 📫 Contact Me
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SplitCode&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SplitCode&layout=compact&theme=radical)
-
-
+<div id="contact_badges">
+  <a href="https://t.me/Nata_Bandurova" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+ <a href="https://www.linkedin.com/in/natalia-bandurova/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</div>
