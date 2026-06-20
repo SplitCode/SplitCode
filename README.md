@@ -1,10 +1,8 @@
-# 🙋‍♀️ Hi, I’m Natalia!
+# Hi, I’m Natalia!
 
-A passionate Frontend Developer from Moscow.
+Angular frontend developer with a background in sports event management — which means I know how to ship things under deadline and work in a team.
 
-I'm currently deepening my knowlege in Angular, JavaScript, TypeScript, HTML, and CSS, while exploring modern tools to excel as a frontend developer.
-
-With over 10 years of experience in **sports event management**, I have honed my skills in teamwork, time management, and leadership by successfully managing complex projects and collaborating with diverse teams. Transitioning into frontend development, I am eager to leverage this experience to craft intuitive and user-friendly web applications that solve real-world problems.
+I write clean, well-structured code and genuinely enjoy documenting it. Currently exploring technical writing and developer experience as a natural extension of my frontend work.
 
 ## 📫 Contact Me
 
