@@ -33,17 +33,6 @@ I write clean, well-structured code and genuinely enjoy documenting it. Currentl
 
 **Featured Projects**:
 
-## Featured projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🥕 [Carrot's Hub](https://morkovka.web.app/) | Nutrition & hydration tracker with food database search powered by Edamam API | Angular 18, Nx, Taiga UI, Firebase |
-| ❮❯ [Code Editor](https://on-editor.netlify.app/) | LeetCode-style coding environment for JS & Python with simulated execution | Angular 18, Nx, Taiga UI, json-server |
-| 🚆 [Train-A](https://angular-train.netlify.app/) | Train trip management platform — team project (4 devs) | Angular 18, PrimeNG, Tailwind |
-| 🪐 [Sloth's Galactic Store](https://sloth-galactic-store.netlify.app/) | E-commerce with full cart, auth, and catalog via CommerceTools — team project (3 devs) | React, Redux Toolkit, Vite |
-| 💬 [Hexlet Chat](https://frontend-project-12-c3ik.onrender.com/) | Real-time Slack-like chat with channels, WebSocket, and i18n | React, Redux, WebSocket |
-| 📑 [Gen Diff](https://github.com/SplitCode/Difference-Generator) | CLI utility to compare JSON/YAML files and output structured diffs | Node.js, Jest |
-
 - 🥕 **[Carrot's Hub](https://morkovka.web.app/)** - A comprehensive service designed to help users monitor their diet and hydration habits, track the nutritional value of foods, and adopt healthy eating habits through educational recipes and practical tools.  
 **Stack:** TypeScript, Angular 18, Firebase (Authentication, Realtime Database, Analytics, Hosting), Taiga UI + LESS, Eslint, Stylelint, Prettier, Nx Monorepo, CI/CD  
 **Code:** [GitHub Repository](https://github.com/SplitCode/carrotsHub)
